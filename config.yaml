@@ -1,15 +1,15 @@
 theme: "hugo-theme-novela"
 baseURL: "https://farense.netlify.app/"
-languageCode: "en-us"
-title: "Hugo Novela"
+languageCode: "es-cl"
+title: "Farense"
 pygmentsstyle: 'monokai'
 paginate: 6
-social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
+#social:
+#  twitter: "#"
+#  github: "#"
+#  instagram: "#"
+#  linkedin: "#"
+#  dribbble: "#"
+#  youtube: "#"
 taxonomies:
   author: authors

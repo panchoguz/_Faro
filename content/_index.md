@@ -1,7 +1,7 @@
 ---
 hero:
   heading: 
-  maxWidthPX: 652
+  maxWidthPX:
 seo:
-  image: /images/hero-2.jpg
+  image:
 ---
