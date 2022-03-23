@@ -1,5 +1,5 @@
 ---
-title: La Pega
+title: La pega de voluntario
 authors: 
 - Pancho
 date: '2022-03-23'
@@ -11,3 +11,6 @@ tags: []
 hero: /images/pega.jpg
 excerpt: ~
 ---
+
+Llegar de voluntario ha resultado ser una muy buena decisión. Actualmente estoy 
+
