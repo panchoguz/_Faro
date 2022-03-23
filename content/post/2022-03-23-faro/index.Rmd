@@ -48,7 +48,6 @@ paths <- c(
 "/images/faro/IMG_1743.JPEG",
 "/images/faro/IMG_1744.JPEG",
 "/images/faro/IMG_1746.JPEG",
-"/images/faro/IMG_1747.JPEG",
 "/images/faro/IMG_1751.JPEG",
 "/images/faro/IMG_1753.JPEG",
 "/images/faro/IMG_1755.JPEG",
