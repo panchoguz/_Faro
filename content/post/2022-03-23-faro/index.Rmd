@@ -17,21 +17,6 @@ excerpt: ~
 library(slickR)
 
 paths <- c(
-  "/images/faro/IMG_1747.JPEG",
-"/images/faro/IMG_1751.JPEG",
-"/images/faro/IMG_1753.JPEG",
-"/images/faro/IMG_1755.JPEG",
-"/images/faro/IMG_1775.JPEG",
-"/images/faro/IMG_1776.JPEG",
-"/images/faro/IMG_1777.JPEG",
-"/images/faro/IMG_1778.JPEG",
-"/images/faro/IMG_1780.JPEG",
-"/images/faro/IMG_1782.JPEG",
-"/images/faro/8912FB46-BB7C-44F4-A76F-CD0A820D8B65.jpg",
-"/images/faro/IMG_1888.JPEG",
-"/images/faro/IMG_1891.JPEG",
-"/images/faro/IMG_1892.JPEG",
-"/images/faro/A308D2C3-5FA8-4759-9D42-8FA057FF7CDB.jpg",
 "/images/faro/IMG_1683.JPEG",
 "/images/faro/IMG_1684.JPEG",
 "/images/faro/IMG_1685.JPEG",
@@ -62,7 +47,20 @@ paths <- c(
 "/images/faro/IMG_1742.JPEG",
 "/images/faro/IMG_1743.JPEG",
 "/images/faro/IMG_1744.JPEG",
-"/images/faro/IMG_1746.JPEG"
+"/images/faro/IMG_1746.JPEG",
+"/images/faro/IMG_1747.JPEG",
+"/images/faro/IMG_1751.JPEG",
+"/images/faro/IMG_1753.JPEG",
+"/images/faro/IMG_1755.JPEG",
+"/images/faro/IMG_1775.JPEG",
+"/images/faro/IMG_1776.JPEG",
+"/images/faro/IMG_1777.JPEG",
+"/images/faro/IMG_1778.JPEG",
+"/images/faro/IMG_1780.JPEG",
+"/images/faro/IMG_1782.JPEG",
+"/images/faro/IMG_1888.JPEG",
+"/images/faro/IMG_1891.JPEG",
+"/images/faro/IMG_1892.JPEG"
 )
 
 slickR(obj = paths) + 
