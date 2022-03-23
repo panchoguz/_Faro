@@ -66,10 +66,11 @@ slickR(obj = paths) +
            initialSlide = 0,
            slidesToShow = 1,
            slidesToScroll = 1,
-           centerMode = TRUE,
+           centerMode = FALSE,
            variableWidth = FALSE,
            adaptiveHeight = TRUE,
            fade = TRUE,
-           cssEase = 'linear'
+           autoplay = TRUE,
+           autoplaySpeed = 3000
            )
 ```
