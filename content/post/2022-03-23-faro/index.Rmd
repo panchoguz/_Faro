@@ -1,0 +1,11 @@
+---
+title: Faro
+author: Pancho
+date: '2022-03-23'
+slug: []
+categories:
+  - Portugal
+tags: []
+hero: /images/hero-3.jpg
+excerpt: ~
+---
