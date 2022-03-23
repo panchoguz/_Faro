@@ -1,5 +1,5 @@
 theme: "hugo-theme-novela"
-baseURL: "https://example.com"
+baseURL: "https://farense.netlify.app/"
 languageCode: "en-us"
 title: "Hugo Novela"
 pygmentsstyle: 'monokai'
