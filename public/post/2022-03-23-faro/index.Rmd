@@ -1,30 +1,26 @@
 ---
-title: Faro, Portugal
+title: Faro, capital del Algarve
 authors: 
 - Pancho
 date: '2022-03-23'
 slug: []
 categories:
   - Portugal
+  - Faro
 tags: []
 hero: /images/IMG_1654.JPEG
 excerpt: ~
 ---
 
-## Primer mes en Faro, capital de la región del Algarve
+## Algunas fotos de la ciudad
 
-![](images/Faro.png){width=350 height=400}
-
-
-
-Primer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaaPrimer mes en Portugal y aaaa
-
-
+---
 
 ```{r, echo=FALSE}
 library(slickR)
 
 paths <- c(
+"/images/faro/Faro.png",
 "/images/faro/IMG_1683.JPEG",
 "/images/faro/IMG_1684.JPEG",
 "/images/faro/IMG_1685.JPEG",
