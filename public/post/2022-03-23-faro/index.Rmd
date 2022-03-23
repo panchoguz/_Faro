@@ -73,6 +73,7 @@ slickR(obj = paths) +
            autoplay = TRUE,
            autoplaySpeed = 3000,
            focusOnSelect = TRUE,
-           mobileFirst = TRUE
+           mobileFirst = TRUE,
+           respondTo = 'slider'
            )
 ```
