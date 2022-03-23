@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Novela</title>
+    <link>https://farense.netlify.app/post/</link>
+    <description>Recent content in Posts on Hugo Novela</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://farense.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Faro</title>
+      <link>https://farense.netlify.app/post/2022-03-23-faro/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://farense.netlify.app/post/2022-03-23-faro/</guid>
+      <description>{&#34;x&#34;:[{&#34;obj&#34;:&#34;\n \n \n \n \n \n \n&#34;,&#34;divName&#34;:&#34;baseDiv_bump_0943368105217814&#34;,&#34;slideh&#34;:&#34;99%&#34;,&#34;slidew&#34;:&#34;95%&#34;,&#34;slickOpts&#34;:{&#34;dots&#34;:false,&#34;slidesToShow&#34;:1,&#34;slidesToScroll&#34;:1}}],&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
+    </item>
+    
+  </channel>
+</rss>
