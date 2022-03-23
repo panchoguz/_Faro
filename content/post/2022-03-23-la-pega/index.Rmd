@@ -12,5 +12,85 @@ hero: /images/pega.jpg
 excerpt: ~
 ---
 
-Llegar de voluntario ha resultado ser una muy buena decisión. Actualmente estoy 
+## Casa d'Alagoa
 
+El trabajo de voluntario en este hostal es bastante sencillo. 
+
+
+
+```{r, echo=FALSE}
+library(slickR)
+
+paths <- c(
+"/images/trabajo/Casa/cartel 1.jpg",
+"/images/trabajo/Casa/cartel 2.jpg",
+"/images/trabajo/Casa/cartel 3.JPEG",
+"/images/trabajo/Casa/cartel 4.JPEG",
+"/images/trabajo/Casa/gente (2).jpg",
+"/images/trabajo/Casa/gente.JPEG",
+"/images/trabajo/Casa/gente.JPG",
+"/images/trabajo/Casa/IMG_1769.JPEG",
+"/images/trabajo/Casa/IMG_1772.JPEG",
+"/images/trabajo/Casa/IMG_1862.JPEG",
+"/images/trabajo/Casa/IMG_1869.JPEG",
+"/images/trabajo/Casa/IMG_1922.JPEG",
+"/images/trabajo/Casa/IMG_1995.JPEG",
+"/images/trabajo/Casa/pega.jpg",
+"/images/trabajo/Casa/plato (2).JPEG",
+"/images/trabajo/Casa/plato (3).JPEG",
+"/images/trabajo/Casa/plato (4).JPEG",
+"/images/trabajo/Casa/plato (5).JPEG",
+"/images/trabajo/Casa/plato (7).JPEG",
+"/images/trabajo/Casa/plato (8).JPEG",
+"/images/trabajo/Casa/plato.JPEG"
+)
+
+slickR(obj = paths) + 
+  settings(dots = FALSE,
+           initialSlide = 0,
+           slidesToShow = 1,
+           slidesToScroll = 1,
+           centerMode = FALSE,
+           variableWidth = FALSE,
+           adaptiveHeight = TRUE,
+           fade = TRUE,
+           autoplay = TRUE,
+           autoplaySpeed = 3000,
+           focusOnSelect = TRUE,
+           mobileFirst = TRUE
+           )
+```
+
+---
+
+## Hostellicious
+
+
+
+```{r, echo=FALSE}
+library(slickR)
+
+paths <- c(
+  "/images/trabajo/Hostellicious/IMG_1690.JPEG",
+"/images/trabajo/Hostellicious/IMG_2033.JPEG",
+"/images/trabajo/Hostellicious/IMG_1948.JPEG",
+"/images/trabajo/Hostellicious/901BFACC-ACE5-4A1E-ADA5-084415491E59.jpg",
+"/images/trabajo/Hostellicious/E095B855-DDA4-4BCF-8262-4F8C7D46D8B2.jpg",
+"/images/trabajo/Hostellicious/F8B12895-04C2-4379-82D2-F085F0E6FBF2.jpg"
+)
+
+slickR(obj = paths) + 
+  settings(dots = FALSE,
+           initialSlide = 0,
+           slidesToShow = 1,
+           slidesToScroll = 1,
+           centerMode = FALSE,
+           variableWidth = FALSE,
+           adaptiveHeight = TRUE,
+           fade = TRUE,
+           autoplay = TRUE,
+           autoplaySpeed = 3000,
+           focusOnSelect = TRUE,
+           mobileFirst = TRUE
+           )
+```
