@@ -65,6 +65,11 @@ slickR(obj = paths) +
   settings(dots = FALSE,
            initialSlide = 0,
            slidesToShow = 1,
-           slidesToScroll = 1
+           slidesToScroll = 1,
+           centerMode = TRUE,
+           variableWidth = FALSE,
+           adaptiveHeight = TRUE,
+           fade = TRUE,
+           cssEase = 'linear'
            )
 ```
