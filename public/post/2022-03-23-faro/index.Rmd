@@ -67,7 +67,8 @@ paths <- c(
 
 slickR(obj = paths) + 
   settings(dots = FALSE,
-             slidesToShow = 1,
-            slidesToScroll = 1
+           initialSlide = 0,
+           slidesToShow = 1,
+           slidesToScroll = 1
            )
 ```
