@@ -10,3 +10,6 @@ tags: []
 hero: /images/IMG_1654.JPEG
 excerpt: ~
 ---
+
+
+![](/images/faro/IMG_1721.JPEG "Arco da Vila. Monumental puerta neoclásica que lleva al casco antiguo, con restos de la muralla original musulmana")
