@@ -1,5 +1,5 @@
 ---
-avatar: /images/profile-01.jpeg
+avatar: /images/perfil.jpg
 bio: 26
 featured: true
 title: Pancho
