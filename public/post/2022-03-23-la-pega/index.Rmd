@@ -14,9 +14,10 @@ excerpt: ~
 
 ## Casa d'Alagoa
 
-El trabajo de voluntario en este hostal es bastante sencillo. 
+El trabajo de voluntario en este hostal es bastante sencillo. Soy asistente de cocina de Júlio, quien conoce más acerca de los platos brasileños (como la feijoada), y juntos preparamos, cocinamos, servimos y lavamos (si es que hay clientes, porque nos ha pasado más de una vez que no se anota nadie en la lista y no tenemos mucho que hacer 😂).
+Vittoria, pareja de Júlio, siempre nos ayuda en todo y es la encargada oficial de hacer el Brigadeiro, postre brasileño muy, pero muy bueno.
 
-
+Así concurren las tardes y las noches que me toca trabajar en este hostal (generalmente 3 a 5 días a la semana), con portuñol, inglés, música y mucha buena onda. Compartiendo con huéspedes y las diversas personas que van llenando este lugar que verdaderamente merece ser llamado hogar.
 
 ```{r, echo=FALSE}
 library(slickR)
@@ -64,6 +65,13 @@ slickR(obj = paths) +
 ---
 
 ## Hostellicious
+
+También me ha tocado trabajar en este hostal (de la misma cadena), con una tarea y horario diferentes al otro (acá parto 9am). Aquí se hace limpieza y orden general del lugar. 
+
+Hostellicious es ese edifico medio amarillo que se ve abajo en las fotos, vecino del edificio donde alojamos las personas voluntarias (hay una conexión por dentro, pero que "no podemos usar"). 
+Aparte de trabajar, aquí vengo a tomar desayuno, a buscar cosas básicas como confort, detergente, etc., a ver si puedo llevarme algo de comida de la cajita "free food" (a veces la gente deja cosas re buenas) y a saludar y/o hablar un rato con alguna persona conocida.
+
+Máximo 2 veces por semana me ha tocado en este hostal, pero más que nada para ayudar si es que están muy colpasados.
 
 
 
