@@ -1,6 +1,6 @@
 ---
 avatar: /images/perfil.jpg
-bio:
+bio:Las fotos se ven mejor desde el computador (o girando el celular)
 featured: true
 title: Pancho
 ---
