@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Las fotos se ven mejor desde el computador (o girando el celular 😉)
+  heading:
   maxWidthPX:
 seo:
   image:

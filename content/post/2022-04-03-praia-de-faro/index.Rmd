@@ -1,0 +1,111 @@
+---
+title: Praia de Faro
+authors: 
+- Pancho
+date: '2022-06-10'
+slug: []
+categories:
+  - Faro
+  - Portugal
+tags: []
+hero: /images/praia.JPEG
+excerpt: ~
+---
+
+## Fotos
+
+```{r, echo=FALSE}
+library(slickR)
+
+paths <- c(
+"/images/praia/IMG_2148.JPEG",
+"/images/praia/IMG_2149.JPEG",
+"/images/praia/IMG_2150.JPEG",
+"/images/praia/IMG_2152.JPEG",
+"/images/praia/IMG_2153.JPEG",
+"/images/praia/IMG_2154.JPEG",
+"/images/praia/IMG_2155.JPEG",
+"/images/praia/IMG_2156.JPEG",
+"/images/praia/IMG_2157.MP4",
+"/images/praia/IMG_2158.JPEG",
+"/images/praia/IMG_2159.JPEG",
+"/images/praia/IMG_2160.JPEG",
+"/images/praia/IMG_2162.JPEG",
+"/images/praia/IMG_2163.JPEG",
+"/images/praia/IMG_2165.JPEG",
+"/images/praia/IMG_2166.JPEG",
+"/images/praia/IMG_2168.JPEG",
+"/images/praia/IMG_2171.JPEG",
+"/images/praia/IMG_2172.JPEG",
+"/images/praia/IMG_2173.JPEG",
+"/images/praia/IMG_2063.JPEG",
+"/images/praia/IMG_2065.JPEG",
+"/images/praia/IMG_2066.JPEG",
+"/images/praia/IMG_2069.JPEG",
+"/images/praia/IMG_2071.JPEG",
+"/images/praia/IMG_2072.JPEG",
+"/images/praia/IMG_2073.JPEG",
+"/images/praia/IMG_2074.JPEG",
+"/images/praia/IMG_2075.JPEG",
+"/images/praia/IMG_2076.JPEG",
+"/images/praia/IMG_2079.JPEG",
+"/images/praia/IMG_2081.JPEG",
+"/images/praia/IMG_2083.JPEG",
+"/images/praia/IMG_2084.JPEG",
+"/images/praia/IMG_2085.MP4",
+"/images/praia/IMG_2086.JPEG",
+"/images/praia/IMG_2087.JPEG",
+"/images/praia/IMG_2088.JPEG",
+"/images/praia/IMG_2089.JPEG",
+"/images/praia/IMG_2090.JPEG",
+"/images/praia/IMG_2091.JPEG",
+"/images/praia/IMG_2092.JPEG",
+"/images/praia/IMG_2094.JPEG",
+"/images/praia/IMG_2095.JPEG",
+"/images/praia/IMG_2097.JPEG",
+"/images/praia/IMG_2098.JPEG",
+"/images/praia/IMG_2100.JPEG",
+"/images/praia/IMG_2103.JPEG",
+"/images/praia/IMG_2104.JPEG",
+"/images/praia/IMG_2105.JPEG",
+"/images/praia/IMG_2106.JPEG",
+"/images/praia/IMG_2107.JPEG",
+"/images/praia/IMG_2108.JPEG",
+"/images/praia/IMG_2113.JPEG",
+"/images/praia/IMG_2115.JPEG",
+"/images/praia/IMG_2116.JPEG",
+"/images/praia/IMG_2118.JPEG",
+"/images/praia/IMG_2120.JPEG",
+"/images/praia/IMG_2121.JPEG",
+"/images/praia/IMG_2123.JPEG",
+"/images/praia/IMG_2125.JPEG",
+"/images/praia/IMG_2127.JPEG",
+"/images/praia/IMG_2129.JPEG",
+"/images/praia/IMG_2130.JPEG",
+"/images/praia/IMG_2131.JPEG",
+"/images/praia/IMG_2133.JPEG",
+"/images/praia/IMG_2138.JPEG",
+"/images/praia/IMG_2141.JPEG",
+"/images/praia/IMG_2142.JPEG",
+"/images/praia/IMG_2143.JPEG",
+"/images/praia/IMG_2144.JPEG",
+"/images/praia/IMG_2146.JPEG",
+"/images/praia/IMG_2147.JPEG"
+)
+
+slickR(obj = paths) + 
+  settings(dots = FALSE,
+           initialSlide = 0,
+           slidesToShow = 1,
+           slidesToScroll = 1,
+           centerMode = FALSE,
+           variableWidth = FALSE,
+           adaptiveHeight = TRUE,
+           fade = TRUE,
+           autoplay = TRUE,
+           autoplaySpeed = 3000,
+           focusOnSelect = TRUE,
+           mobileFirst = TRUE
+           )
+```
+
